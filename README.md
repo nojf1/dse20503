@@ -9,10 +9,10 @@ Backend: Built with Spring Boot
 Prerequisites:
 Before you begin, ensure you have the following installed on your machine:
 
-Node.js (version 14 or higher)
-npm (version 6 or higher)
-Java Development Kit (JDK) (version 11 or higher)
-Maven (version 3.6 or higher)
+Node.js (version 14 or higher),
+npm (version 6 or higher),
+Java Development Kit (JDK) (version 11 or higher),
+Maven (version 3.6 or higher),
 MySQL (version 5.7 or higher)
 
 Getting Started
