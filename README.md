@@ -1,3 +1,5 @@
+(Read the file in code format for better viewing)
+
 This project is part of WOU Bachelor in Software Engineering DSE205/03 Advanced Web Development module.
 
 Hi-Fi Cars Used Car Sales Portal
